@@ -4,7 +4,9 @@
 
 -  Some of the **TEAM** projects I've worked on: 
   - <a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A full-stack web app that connects potential donors of goods to people and charities in their local area. I implemented the item, browsing, and maps pages of the app.
-  - <img src="/images/map.gif" alt="Greene Ocean map browsing" width="49%" height="auto" />
+  - <div id="green_ocean_gif" align="center">
+  <img src="/images/map.gif" alt="Greene Ocean map browsing" width="60%" height="auto" />
+  </div>
 
 
 - 🙆🏻 Some of my **PERSONAL** projects I've worked on:
