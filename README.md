@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Mark Alperin</h1>
 <h3 align="center">A passionate full-stack developer from Austin, Texas.</h3>
 
+- 🙆🏻 Some of my **PERSONAL** projects I've worked on:
+
 - 🔭 I’m currently working on [arc-website](https://github.com/MarkAlperin/arc-website-app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MarkAlperin](https://github.com/MarkAlperin)
-
-- 💬 Ask me about **React.js, React-Native, Javascript, SQL, MongoDB, Node.js**
-
-- 📫 How to reach me **mark.t.alperin@gmail.com**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/mark-alperin">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn BAdge"/>
+  </a>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/markalperin/](https://www.linkedin.com/in/markalperin/)
 
