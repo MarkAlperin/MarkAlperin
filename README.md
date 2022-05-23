@@ -10,7 +10,7 @@
   - <a href="https://github.com/CradleMountain/wouldawoodshopshopwood" >**Cradle Mountain**</a>: An Ecommerce front end app that presents shopping images, options, ratings/reviews for clothing products. I created the item overview and carousel widgets.
    <img src="/images/carousel.gif" alt="carousels for clothing products" width="50%" height="auto" align="center"/> 
  - <a href="https://github.com/TeamThyme/ratings-reviews-api">**Cradle Mountain API**</a>: A redesign of the back end that serves the above Ecommerce app, scaled to meet production level traffic. I was responsible for the ratings, reviews, and metadata microservices.
-  - <img src="/images/servers.jpg" alt="load testing back end" width="50%" height="auto" />
+  - <img src="/images/servers.jpg" alt="load testing back end" width="100%" height="auto" />
  
 
 - 🙆🏻 Some of my **PERSONAL** projects I've worked on:
