@@ -7,7 +7,7 @@
   
  <p align="center"><img src="/images/map.gif" alt="Greene Ocean map browsing" width="50%" height="auto" /></p>
 
-  - <a href="https://github.com/CradleMountain/wouldawoodshopshopwood" >**Cradle Mountain**</a>: An Ecommerce front end app that presents shopping images, options, ratings/reviews for clothing products. I created the item overview and carousel widgets.
+  - <a href="https://github.com/CradleMountain/wouldawoodshopshopwood" >**Cradle Mountain**</a>: An e-commerce app for clothing products. I created the item overview and carousel widgets, everything that you see below.
    <img src="/images/carousel.gif" alt="carousels for clothing products" width="50%" height="auto" align="center"/> 
    
  - <a href="https://github.com/TeamThyme/ratings-reviews-api">**Cradle Mountain API**</a>: A redesign of the back end that serves the above Ecommerce app, scaled to meet production level traffic. I was responsible for the ratings, reviews, and metadata microservices.
