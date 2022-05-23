@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer from Austin, Texas.</h3>
 
 - 🙆🏻 Some of the **TEAM** projects I've worked on: 
-  - <a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A full-stack web app that connects potential donors of goods to people and charities in their local area. I implemented the item, browsing, and maps pages of the app.
+ - <a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A full-stack web app that connects potential donors of goods to people and charities in their local area. I implemented the item, browsing, and maps pages of the app.
   
  <p align="center"><img src="/images/map.gif" alt="Greene Ocean map browsing" width="50%" height="auto" /></p>
 
@@ -22,7 +22,6 @@
 
 - ⚡ Fun fact **I sailed across the Atlantic!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
