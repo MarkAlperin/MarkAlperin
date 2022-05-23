@@ -2,15 +2,16 @@
 <h1 align="center">Hi 👋, I'm Mark Alperin</h1>
 <h3 align="center">A passionate full-stack developer from Austin, Texas.</h3>
 
+-  Some of the **TEAM** projects I've worked on: 
+<a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A full-stack web app that connects potential donors of goods to people and charities in their local area. I implemented the 
+
 - 🙆🏻 Some of my **PERSONAL** projects I've worked on:
 
 - 🔭 I’m currently working on [arc-website](https://github.com/MarkAlperin/arc-website-app)
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/mark-alperin">
+- 📫 How to reach me <a href="https://www.linkedin.com/in/markalperin">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn BAdge"/>
   </a>
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/markalperin/](https://www.linkedin.com/in/markalperin/)
 
 - ⚡ Fun fact **I sailed across the Atlantic!**
 
