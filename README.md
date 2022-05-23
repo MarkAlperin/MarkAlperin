@@ -4,7 +4,8 @@
 
 -  Some of the **TEAM** projects I've worked on: 
   - <a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A full-stack web app that connects potential donors of goods to people and charities in their local area. I implemented the item, browsing, and maps pages of the app.
- <img src="/images/map.gif" alt="Greene Ocean map browsing" width="50%" height="auto" align="center"/>
+  
+ <p align="center"><img src="/images/map.gif" alt="Greene Ocean map browsing" width="50%" height="auto" /></p>
 
   - <a href="https://github.com/CradleMountain/wouldawoodshopshopwood" >**Cradle Mountain**</a>: An Ecommerce front end app that presents shopping images, options, ratings/reviews for clothing products. I created the item overview and carousel widgets.
    <img src="/images/carousel.gif" alt="carousels for clothing products" width="50%" height="auto" align="center"/> 
