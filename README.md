@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mark Alperin</h1>
 <h3 align="center">A passionate full-stack developer from Austin, Texas.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markalperin&label=Profile%20views&color=0e75b6&style=flat" alt="markalperin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markalperin" alt="markalperin" /></a> </p>
-
 - 🔭 I’m currently working on [arc-website](https://github.com/MarkAlperin/arc-website-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarkAlperin](https://github.com/MarkAlperin)
