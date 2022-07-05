@@ -14,7 +14,7 @@
   - <img src="/images/servers.jpg" alt="load testing back end" width="100%" height="auto" />
 
 
-- 🔭 I’m currently working on [swapi-engineering-evaluation](https://github.com/MarkAlperin/swapi-engineering-evaluation)
+- 🔭 I’m currently working on [Secret Card Club](https://github.com/SecretCardClub)
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/markalperin">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn BAdge"/>
