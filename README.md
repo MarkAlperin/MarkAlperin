@@ -3,7 +3,7 @@
 <h3 align="center">A full-stack developer from Austin, Texas.</h3>
 
 - 🧑🏻‍🎨 You can see more of my work here <a href="https://markalperin.com">**MarkAlperin.com**</a>
-- 
+
 - 📫 How to reach me <a href="https://www.linkedin.com/in/markalperin">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn BAdge"/>
   </a>
