@@ -3,9 +3,11 @@
 <h3 align="center">A full-stack developer from Austin, Texas.</h3>
 
 - 🧑🏻‍🎨 You can see more of my work here <a href="https://markalperin.com">**MarkAlperin.com**</a>
+- 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/markalperin">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn BAdge"/>
   </a>
+  
 - 🙆🏻 Some of the projects I've worked on: 
  - <a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A full-stack web app that connects potential donors of goods to people and charities in their local area. I implemented the item, browsing, and maps pages of the app.
   
