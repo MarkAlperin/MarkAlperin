@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mark Alperin</h1>
 <h3 align="center">A full-stack developer from Austin, Texas.</h3>
+- You can learn more about me here <a href="https://markalperin.com">
 
 - 🙆🏻 Some of the projects I've worked on: 
  - <a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A full-stack web app that connects potential donors of goods to people and charities in their local area. I implemented the item, browsing, and maps pages of the app.
