@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mark Alperin</h1>
 <h3 align="center">A full-stack developer from Austin, Texas.</h3>
 
-- 🧑🏻‍🎨 You can see more of my work here <a href="https://markalperin.com">**MarkAlperin.com**</a>
+- 🧑🏻‍🎨 You can see more of my work here <a href="https://markalperin.com" target="_blank">**MarkAlperin.com**</a>
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/markalperin">
+- 📫 How to reach me <a href="https://www.linkedin.com/in/markalperin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn BAdge"/>
   </a>
   
