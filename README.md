@@ -9,7 +9,7 @@
   </a>
   
 - 🙆🏻 Some of the projects I've worked on: 
- - <a href="https://github.com/SecretCardClub/" >**Secret Card Club**</a>: An iOS playing-card sandbox game for up to 8 players. I worked on the sandbox functionality for the cards, table, and avatar components.
+ - <a href="https://github.com/SecretCardClub/" >**Just Cards**</a>: An iOS playing-card sandbox game for up to 8 players. I worked on the sandbox functionality for the cards, table, and avatar components.
   
  <p align="center"><img src="/images/cards.png" alt="Greene Ocean map browsing" width="50%" height="auto" /></p>
 
